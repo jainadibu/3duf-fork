@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.stl
+
+coverage/
+node_modules/
+dist/
+
+old/*output
+old/*.scad
+*.log
+
+.idea/
+*tmp-browserify*
+
+3DuFapp.js
+publish.sh
